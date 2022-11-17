@@ -1,0 +1,12 @@
+---
+:id: 57500008
+:submitters:
+- :name: Mucteba Bozkurt
+  :email: mucteba.bozkurt001@umb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-11-30 04:46:08.194899000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-11-29 20:46:08.194899000 Z
+:status: processed
+:score: 72.56
